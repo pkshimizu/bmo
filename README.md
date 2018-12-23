@@ -1,3 +1,14 @@
+# bmo
+
+## できること（できるようにすること）
+* メモを作成できる
+* Markdownで記述でき、プレビューできる
+* メモを階層で管理できる
+* メモをGoogle Driveに保存できる
+* vimキーバインドを使用できる
+* テンプレートを複数設定できる
+* PC,スマホ,タブレットなどどこからでも使える
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
