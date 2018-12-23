@@ -3,9 +3,14 @@
 ## できること（できるようにすること）
 * メモを作成できる
 * Markdownで記述でき、プレビューできる
+  * http://saygox.blogspot.com/2015/04/ace-editor-markdown.html
+  * http://demo.showdownjs.com/
+  * https://qiita.com/konojunya/items/854e92ce5ee543edcc33
 * メモを階層で管理できる
 * メモをGoogle Driveに保存できる
+  * https://qiita.com/kjunichi/items/552f13b48685021966e4
 * vimキーバインドを使用できる
+  * https://qiita.com/Toyoharu-Nishikawa/items/ef52b9809a55697cc86e
 * テンプレートを複数設定できる
 * PC,スマホ,タブレットなどどこからでも使える
 
