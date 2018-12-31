@@ -1,6 +1,7 @@
 import React from 'react';
 import AceEditor from 'react-ace';
 import "brace/mode/markdown";
+import "brace/theme/github";
 import "brace/keybinding/vim";
 
 export default () => (
